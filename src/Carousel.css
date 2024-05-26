@@ -1,0 +1,48 @@
+#carousel {
+    width: 1170px;
+    height: 400px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+}
+
+#image-carousel {
+    width: 1170px;
+    height: 400px;
+    top: 211px;
+    left: 83px;
+    gap: 0px;
+    border-radius: 12px 12px 12px 12px;
+    position: absolute;
+}
+
+#details {
+    color: #FFFFFF;
+    position: relative;
+}
+
+#title {
+    width: 571px;
+    height: 64px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 64px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 47px;
+    padding-top: 47px;
+}
+
+#lead {
+    width: 571px;
+    height: 81px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 47px;
+}

@@ -1,0 +1,44 @@
+#rectangle {
+    width: 170px;
+    height: 305.87px;
+    gap: 0px;
+    border-radius: 12px 12px 12px 12px;
+}
+
+#image-card-movie {
+    width: 170px;
+    height: 253.84px;
+    gap: 0px;
+    border-radius: 12px 12px 12px 12px;
+    position: absolute;
+}
+
+#episode {
+    width: 129.25px;
+    height: 20.96px;
+    top: 243.9px;
+    left: 20.96px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#movie-name {
+    width: 129.25px;
+    height: 20.96px;
+    top: 228.16px;
+    left: 22.12px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+}

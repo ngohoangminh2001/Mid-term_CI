@@ -1,0 +1,152 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+#home-div {
+  width: Fixed (1, 359px)px;
+  height: Fixed (1, 009px)px;
+  top: -644px;
+  left: -1457px;
+  padding: 15px 83px 15px 83px;
+  gap: 29px;
+  background: #192026;
+}
+
+#navbar {
+  gap: 141px;
+  display: flex;
+}
+
+#anonime {
+  width: 201.44px;
+  height: 32px;
+  gap: 0px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.07em;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+#home-text {
+  width: 63.16px;
+  height: 32px;
+  gap: 0px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.07em;
+  text-align: center;
+  color: #868686;
+}
+
+#list-anime {
+  width: 112.16px;
+  height: 32px;
+  gap: 0px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.07em;
+  text-align: center;
+  color: #868686;
+}
+
+#frame2 {
+  width: Fixed (374.58px)px;
+  padding: 8px 100px 8px 18px;
+  gap: 10px;
+  border-radius: 37px 37px 37px 37px;
+  background: #374151;
+}
+
+#explore {
+  width: 118px;
+  height: 36px;
+  gap: 0px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+#what {
+  width: 387px;
+  height: 25px;
+  gap: 0px;
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: left;
+  color: #868686;
+}
+
+#latest-release {
+  gap: 24px;
+}
+
+#new-release {
+  width: 232px;
+  height: 32px;
+  gap: 0px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+#frame6 {
+  gap: 30px;
+  display: flex;
+}
